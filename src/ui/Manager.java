@@ -92,6 +92,7 @@ public class Manager {
                     session();
                     break; 
                 case 8: 
+                    subCancel();
                     break; 
 
 
